@@ -1,0 +1,8 @@
+name: Test-inspec-v2
+title: Test-inspec-v2
+maintainer: MITRE SAF Team
+copyright: MITRE
+summary: "Test the v2 inspec plugin with no interference with the controls"
+version: 0.0.1
+# NOTE: for testing with test-kitchen, put back to ">= 6.0" when finished
+inspec_version: ">= 6.0"
